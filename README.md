@@ -1,5 +1,5 @@
 # Realesrgan-webapp
-use <a href="https://github.com/xinntao/Real-ESRGAN">real-esrgan</a> to 4xupsampling
+use <a href="https://github.com/xinntao/Real-ESRGAN">real-esrgan</a> to 4x upsampling
 
 # Installation
 Python >= 3.7 (Recommend to use Anaconda)<br>
