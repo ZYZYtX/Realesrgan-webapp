@@ -7,7 +7,7 @@ PyTorch >= 1.7
 
 #  How to run
 open cmd<br>
-cd realesrgan-app<br>
+cd realesrgan-webapp<br>
 python app.py
 
 if you see "Running on http://0.0.0.0:xxxxx/"<br>
